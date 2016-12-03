@@ -1,0 +1,294 @@
+[09:58:05] [Server thread/INFO]: Starting minecraft server version 1.11
+[09:58:05] [Server thread/INFO]: Loading properties
+[09:58:05] [Server thread/INFO]: Default game type: SURVIVAL
+[09:58:05] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-31fef09-78c7614 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[09:58:05] [Server thread/INFO]: Debug logging is disabled
+[09:58:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:58:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:58:05] [Server thread/INFO]: Generating keypair
+[09:58:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:58:05] [Server thread/INFO]: Using default channel type
+[09:58:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:58:05] [Server thread/INFO]: Preparing level "world"
+[09:58:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:58:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:58:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:58:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:58:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:58:05] [Server thread/INFO]: View Distance: 10
+[09:58:05] [Server thread/INFO]: Mob Spawn Range: 4
+[09:58:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:58:05] [Server thread/INFO]: Max TNT Explosions: 100
+[09:58:05] [Server thread/INFO]: Structure Info Saving: true
+[09:58:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:58:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:58:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:58:05] [Server thread/INFO]: Random Lighting Updates: false
+[09:58:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Wheat Growth Modifier: 1000%
+[09:58:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:58:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:58:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:58:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:58:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:58:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:58:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:58:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:58:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:58:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:58:06] [Server thread/INFO]: View Distance: 10
+[09:58:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:58:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:58:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:58:06] [Server thread/INFO]: Structure Info Saving: true
+[09:58:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:58:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:58:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:58:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:58:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Wheat Growth Modifier: 1000%
+[09:58:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:58:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:58:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:58:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:58:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:58:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:58:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:58:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:58:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:58:06] [Server thread/INFO]: View Distance: 10
+[09:58:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:58:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:58:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:58:06] [Server thread/INFO]: Structure Info Saving: true
+[09:58:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:58:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:58:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:58:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:58:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Wheat Growth Modifier: 1000%
+[09:58:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:58:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:58:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:58:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:58:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:58:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4193712733481918397)
+[09:58:07] [Server thread/INFO]: Preparing spawn area: 36%
+[09:58:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4193712733481918397)
+[09:58:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4193712733481918397)
+[09:58:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:58:08] [Server thread/INFO]: Done (2.703s)! For help, type "help" or "?"
+[09:58:18] [User Authenticator #1/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
+[09:58:19] [Server thread/INFO]: townskiller[/47.35.190.76:58595] logged in with entity id 182 at ([world]1777.300000011921, 12.76082428187872, -954.5822186316774)
+[10:36:46] [Server thread/WARN]: Horse moved wrongly!
+[10:36:46] [Server thread/WARN]: Horse moved wrongly!
+[10:36:46] [Server thread/WARN]: Horse moved wrongly!
+[10:36:46] [Server thread/WARN]: Horse moved wrongly!
+[10:45:30] [Server thread/WARN]: Horse moved wrongly!
+[10:55:58] [Server thread/WARN]: Horse moved wrongly!
+[10:57:00] [Server thread/WARN]: Horse moved wrongly!
+[10:57:00] [Server thread/WARN]: Horse moved wrongly!
+[10:57:13] [Server thread/WARN]: townskiller moved wrongly!
+[11:20:50] [User Authenticator #2/INFO]: UUID of player topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[11:20:50] [Server thread/INFO]: topherade[/192.168.1.1:50317] logged in with entity id 30750 at ([world]1682.5976574946915, 68.0, -998.5549490408847)
+[11:21:05] [Async Chat Thread - #0/INFO]: <topherade> i see lots of dogs[m
+[11:21:07] [Async Chat Thread - #0/INFO]: <townskiller> one min[m
+[11:21:19] [Async Chat Thread - #0/INFO]: <townskiller> let me open up facebook[m
+[11:34:48] [Server thread/WARN]: Horse moved wrongly!
+[12:43:59] [Server thread/INFO]: topherade lost connection: Disconnected
+[12:43:59] [Server thread/INFO]: topherade left the game
+[12:44:00] [Server thread/INFO]: townskiller lost connection: Disconnected
+[12:44:00] [Server thread/INFO]: townskiller left the game
+[13:14:31] [User Authenticator #3/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
+[13:14:31] [Server thread/INFO]: townskiller[/47.35.190.76:58907] logged in with entity id 57444 at ([world]1670.7250760801762, 7.0, -1081.4579845451076)
+[13:22:19] [User Authenticator #4/INFO]: UUID of player topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[13:22:19] [Server thread/INFO]: topherade[/192.168.1.1:50522] logged in with entity id 59870 at ([world]1651.979655358096, 14.0, -1079.3555508234745)
+[14:02:45] [Server thread/WARN]: Horse moved wrongly!
+[14:02:45] [Server thread/WARN]: Horse moved wrongly!
+[14:02:45] [Server thread/WARN]: Horse moved wrongly!
+[14:02:45] [Server thread/WARN]: Horse moved wrongly!
+[14:02:45] [Server thread/WARN]: Horse moved wrongly!
+[14:03:26] [Server thread/WARN]: Horse moved wrongly!
+[14:03:26] [Server thread/WARN]: Horse moved wrongly!
+[14:04:44] [Server thread/WARN]: Horse moved wrongly!
+[14:04:44] [Server thread/WARN]: Horse moved wrongly!
+[14:04:45] [Server thread/WARN]: Horse moved wrongly!
+[14:04:45] [Server thread/WARN]: Horse moved wrongly!
+[14:04:46] [Server thread/WARN]: Horse moved wrongly!
+[14:04:46] [Server thread/WARN]: Horse moved wrongly!
+[14:04:46] [Server thread/WARN]: Horse moved wrongly!
+[14:04:46] [Server thread/WARN]: Horse moved wrongly!
+[14:04:47] [Server thread/WARN]: Horse moved wrongly!
+[14:04:47] [Server thread/WARN]: Horse moved wrongly!
+[14:04:47] [Server thread/WARN]: Horse moved wrongly!
+[14:04:47] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:48] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:49] [Server thread/WARN]: Horse moved wrongly!
+[14:04:50] [Server thread/WARN]: Horse moved wrongly!
+[14:04:50] [Server thread/WARN]: Horse moved wrongly!
+[14:04:50] [Server thread/WARN]: Horse moved wrongly!
+[14:04:50] [Server thread/WARN]: Horse moved wrongly!
+[14:04:51] [Server thread/WARN]: Horse moved wrongly!
+[14:04:51] [Server thread/WARN]: Horse moved wrongly!
+[14:04:51] [Server thread/WARN]: Horse moved wrongly!
+[14:07:32] [Server thread/WARN]: Horse moved wrongly!
+[14:07:32] [Server thread/WARN]: Horse moved wrongly!
+[14:07:34] [Server thread/WARN]: Horse moved wrongly!
+[14:07:34] [Server thread/WARN]: Horse moved wrongly!
+[14:07:34] [Server thread/WARN]: Horse moved wrongly!
+[14:07:35] [Server thread/WARN]: Horse moved wrongly!
+[14:07:35] [Server thread/WARN]: Horse moved wrongly!
+[14:09:13] [Server thread/WARN]: townskiller moved wrongly!
+[14:11:32] [Server thread/INFO]: topherade lost connection: Disconnected
+[14:11:32] [Server thread/INFO]: topherade left the game
+[14:14:16] [Server thread/WARN]: Horse moved wrongly!
+[14:14:22] [Server thread/WARN]: townskiller moved wrongly!
+[14:15:54] [User Authenticator #5/INFO]: UUID of player topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[14:15:54] [Server thread/INFO]: topherade[/192.168.1.1:50668] logged in with entity id 81559 at ([world]1687.300000011921, 68.69394999363422, -1004.9978187773128)
+[14:17:45] [Server thread/WARN]: Horse moved wrongly!
+[14:17:46] [Server thread/WARN]: Horse moved wrongly!
+[14:17:46] [Server thread/WARN]: Horse moved wrongly!
+[14:17:46] [Server thread/WARN]: Horse moved wrongly!
+[14:17:46] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:47] [Server thread/WARN]: Horse moved wrongly!
+[14:17:48] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:49] [Server thread/WARN]: Horse moved wrongly!
+[14:17:50] [Server thread/WARN]: Horse moved wrongly!
+[14:17:50] [Server thread/WARN]: Horse moved wrongly!
+[14:17:50] [Server thread/WARN]: Horse moved wrongly!
+[14:18:02] [Server thread/WARN]: Horse moved wrongly!
+[14:18:28] [Server thread/WARN]: Horse moved wrongly!
+[14:18:28] [Server thread/WARN]: Horse moved wrongly!
+[14:18:29] [Server thread/WARN]: Horse moved wrongly!
+[14:18:29] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:32] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:33] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:34] [Server thread/WARN]: Horse moved wrongly!
+[14:18:35] [Server thread/WARN]: Horse moved wrongly!
+[14:18:35] [Server thread/WARN]: Horse moved wrongly!
+[14:18:35] [Server thread/WARN]: Horse moved wrongly!
+[14:18:35] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:36] [Server thread/WARN]: Horse moved wrongly!
+[14:18:37] [Server thread/WARN]: Horse moved wrongly!
+[14:32:23] [Server thread/WARN]: Horse moved wrongly!
+[14:47:01] [Server thread/WARN]: Boat moved wrongly!
+[14:47:01] [Server thread/WARN]: Boat moved wrongly!
+[14:48:14] [Server thread/WARN]: Boat moved wrongly!
+[14:48:14] [Server thread/WARN]: Boat moved wrongly!
+[14:48:14] [Server thread/WARN]: Boat moved wrongly!
+[14:48:14] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[14:48:47] [Server thread/WARN]: Boat moved wrongly!
+[15:13:28] [Server thread/INFO]: topherade issued server command: /FORTRESS
+[15:23:44] [Server thread/WARN]: Boat moved wrongly!
+[16:02:01] [Server thread/WARN]: townskiller moved wrongly!
+[16:03:45] [Server thread/INFO]: topherade issued server command: /gamemode 1 topherade
+[16:03:45] [Server thread/INFO]: [topherade: Set own game mode to Creative Mode]
+[16:03:54] [Server thread/INFO]: topherade issued server command: /tp topherade 1600 70 -1000
+[16:03:54] [Server thread/INFO]: [topherade: Teleported topherade to 1600.5, 70.0, -999.5]
+[16:04:52] [Server thread/INFO]: topherade issued server command: /tp townskiller topherade
+[16:04:52] [Server thread/INFO]: [topherade: Teleported townskiller to topherade]
+[16:04:55] [Server thread/INFO]: townskiller lost connection: Disconnected
+[16:04:55] [Server thread/INFO]: townskiller left the game
+[16:05:06] [User Authenticator #6/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
+[16:05:06] [Server thread/INFO]: townskiller[/47.35.190.76:59070] logged in with entity id 127185 at ([world]1740.0979307764414, 109.28641577906939, -1004.0474565386116)
+[16:05:42] [Server thread/INFO]: townskiller lost connection: Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine
+[16:05:42] [Server thread/INFO]: townskiller left the game
+[16:06:15] [Server thread/INFO]: topherade lost connection: Disconnected
+[16:06:15] [Server thread/INFO]: topherade left the game
+[16:10:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:10:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:10:32] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:10:34] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:10:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:10:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
